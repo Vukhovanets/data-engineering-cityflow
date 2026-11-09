@@ -1,0 +1,42 @@
+{
+  "package_id": "S02-LAB01-BASE-V1",
+  "student_id": "S02",
+  "description": "Historical CityFlow snapshot for Laboratory 1 profiling.",
+  "metadata": {
+    "course_version": "1.0",
+    "generator_version": "1.0.0",
+    "scenario": "partial_refunds",
+    "base_period": [
+      "2025-09-01",
+      "2026-08-31"
+    ],
+    "raw_files_are_intentionally_imperfect": true
+  },
+  "files": [
+    {
+      "path": "README.txt",
+      "size_bytes": 664,
+      "sha256": "ae5b0de5a37815e6bab84aebeeab0af89daf89e6cd825328a7cb45a5e6102674"
+    },
+    {
+      "path": "customers.csv",
+      "size_bytes": 101026,
+      "sha256": "1b1b35821635d033d519e3ccbbbd2794b6a73c55dd525833292b3906e3b4a876"
+    },
+    {
+      "path": "merchants.csv",
+      "size_bytes": 3914,
+      "sha256": "5af9f9422c0be6220779aab04574a1608ed295b0dd508f3f9e3adec6371a3c38"
+    },
+    {
+      "path": "orders.csv",
+      "size_bytes": 573306,
+      "sha256": "902770d2723a7a180fac293591d8c50d95743635995762f818c4f755ce4e7aa2"
+    },
+    {
+      "path": "products.csv",
+      "size_bytes": 42669,
+      "sha256": "a77255e8d185a90e7fe312b8d2a2c5a95e8ca4203aeb0185bf7f5dd188ba165e"
+    }
+  ]
+}
