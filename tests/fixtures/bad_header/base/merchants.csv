@@ -1,0 +1,44 @@
+merchant_id,merchant_name,merchant_type,city,service_zone_id,opened_at,merchant_status
+S02-M00001,Market Foods 01,grocery,Kharkiv,KHA-Z03,2022-03-08T00:02:25.883984777Z,active
+S02-M00002,Golden Point 02,restaurant,Odesa,ODE-Z03,2023-04-06T14:32:14.659378660Z,active
+S02-M00003,Care Care 03,pharmacy,Lviv,LVI-Z01,2020-08-18T23:16:49.780479963Z,active
+S02-M00004,Express Stop 04,convenience,Dnipro,DNI-Z01,2021-05-24T13:02:17.288037139Z,active
+S02-M00005,City Market 05,convenience,Kyiv,KYI-Z02,2022-03-10T18:58:38.190961073Z,active
+S02-M00006,Quick Stop 06,convenience,Kharkiv,KHA-Z02,2025-06-18T05:53:38.810918893Z,active
+S02-M00007,Urban Paws 07,pet_store,Lviv,LVI-Z01,2023-05-13T19:22:45.747272274Z,active
+S02-M00008,Express Market 08,convenience,Kyiv,KYI-Z02,2024-06-05T01:20:45.341843083Z,active
+S02-M00009,Daily Basket 09,grocery,Odesa,ODE-Z02,2020-05-06T09:13:01.974962373Z,active
+S02-M00010,Good Pets 10,pet_store,Lviv,LVI-Z04,2020-05-26T14:18:15.525286620Z,active
+S02-M00011,Green Bistro 11,restaurant,Kyiv,KYI-Z05,2020-08-13T12:55:34.122874614Z,active
+S02-M00012,Express Express 12,convenience,Lviv,LVI-Z04,2024-11-25T15:38:39.221469992Z,active
+S02-M00013,Daily Grocer 13,grocery,Odesa,ODE-Z01,2020-12-06T18:36:44.882267495Z,paused
+S02-M00014,Green Kitchen 14,restaurant,Lviv,LVI-Z02,2022-10-20T15:36:31.238671512Z,active
+S02-M00015,Market Foods 15,grocery,Lviv,LVI-Z04,2021-03-21T11:46:07.727023613Z,active
+S02-M00016,Good Basket 16,grocery,Dnipro,DNI-Z02,2024-11-16T10:38:25.379240679Z,active
+S02-M00017,Quick Market 17,convenience,Odesa,ODE-Z01,2019-12-27T14:06:08.765682201Z,active
+S02-M00018,Golden Kitchen 18,restaurant,Kyiv,KYI-Z05,2022-06-07T05:08:34.144370798Z,active
+S02-M00019,Craft Bistro 19,restaurant,Lviv,LVI-Z01,2021-06-01T01:21:05.696275975Z,active
+S02-M00020,Friendly Pet Store 20,pet_store,Dnipro,DNI-Z02,2019-12-20T00:31:36.828437490Z,active
+S02-M00021,Street House 21,restaurant,Kharkiv,KHA-Z02,2025-04-07T08:26:54.289232563Z,active
+S02-M00022,Green House 22,restaurant,Kharkiv,KHA-Z01,2020-07-15T23:50:38.208060633Z,active
+S02-M00023,Morning Bakery 23,bakery,Odesa,ODE-Z03,2022-08-19T12:29:33.790508298Z,active
+S02-M00024,Fresh Table 24,restaurant,Dnipro,DNI-Z03,2020-08-26T22:26:43.307257059Z,active
+S02-M00025,Family Foods 25,GROCERY,Odesa,ODE-Z03,2021-04-23T00:42:26.398491905Z,active
+S02-M00026,Street Table 26,restaurant,Lviv,LVI-Z03,2025-05-04T23:39:47.171986004Z,active
+S02-M00027,Local Oven 27,bakery,Kharkiv,KHA-Z02,2023-01-07T01:22:31.114186963Z,paused
+S02-M00028,Daily Shop 28,convenience,Odesa,ODE-Z03,2020-09-06T19:18:42.689194726Z,active
+S02-M00029,Urban Table 29,restaurant,Lviv,LVI-Z02,2022-01-04T17:06:28.887932676Z,active
+S02-M00030,Pet Pets 30,pet_store,Kharkiv,KHA-Z02,2019-09-10T15:47:58.509758852Z,active
+S02-M00031,Care Pharmacy 31,pharmacy,Lviv,LVI-Z01,2022-08-19T02:45:32.749018843Z,active
+S02-M00032,Friendly Paws 32,pet_store,Odesa,ODE-Z01,2023-04-14T04:09:53.322268481Z,active
+S02-M00033,Urban Pet Store 33,pet_store,Kyiv,KYI-Z04,2021-07-11T19:48:11.474784534Z,paused
+S02-M00034,Golden Table 34,restaurant,Lviv,LVI-Z01,2022-11-01T03:40:20.707025905Z,active
+S02-M00035,Daily Foods 35,grocery,Kyiv,KYI-Z05,2022-02-24T13:09:34.916752595Z,active
+S02-M00036,Friendly Pet Store 36,pet_store,Kyiv,KYI-Z02,2024-11-29T11:15:24.549203084Z,active
+S02-M00037,Urban Pet Store 37,pet_store,Kyiv,KYI-Z05,2021-01-13T19:43:23.399998081Z,active
+S02-M00038,Family Place 38,restaurant,Lviv,LVI-Z01,2021-05-16T23:24:57.547584073Z,active
+S02-M00039,Pet Pets 39,pet_store,Kyiv,KYI-Z05,2022-12-07T13:54:24.107067781Z,active
+S02-M00040,Urban House 40,restaurant,Kyiv,KYI-Z02,2024-07-19T06:42:28.571159184Z,active
+S02-M00041,Daily Market 41,convenience,Lviv,LVI-Z01,2024-07-24T02:11:42.282372190Z,active
+S02-M00042,Urban Place 42,restaurant,Lviv,LVI-Z04,2021-02-04T22:44:05.233653675Z,active
+S02-M00026,Street Table 26,restaurant,Lviv,LVI-Z03,2025-05-04T23:39:47.171986004Z,active

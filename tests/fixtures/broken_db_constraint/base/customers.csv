@@ -1,0 +1,2 @@
+customer_id,full_name,email,phone,city,service_zone_id,registered_at,customer_status
+TEST-C1,Test User,t@test.ua,,Lviv,Z1,2026-01-01T10:00:00Z,active

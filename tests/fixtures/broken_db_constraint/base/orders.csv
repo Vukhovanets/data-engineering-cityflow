@@ -1,0 +1,2 @@
+order_id,customer_id,merchant_id,created_at,order_status,currency,subtotal_amount,delivery_fee,discount_amount,total_amount
+TEST-O1,TEST-C1,TEST-M1,2026-01-02T10:00:00Z,delivered,UAH,100.00,20.00,0.00,120.00
