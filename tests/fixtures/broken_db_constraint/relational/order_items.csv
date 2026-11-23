@@ -1,0 +1,2 @@
+order_item_id,order_id,product_id,quantity,unit_price,line_discount,line_total,currency
+TEST-I1,TEST-O1,TEST-P1,1,100.00,0.00,100.00,UAH

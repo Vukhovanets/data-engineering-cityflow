@@ -1,0 +1,2 @@
+merchant_id,merchant_name,merchant_type,city,service_zone_id,opened_at,merchant_status
+TEST-M1,Test Shop,cafe,Lviv,Z1,2025-01-01T10:00:00Z,active

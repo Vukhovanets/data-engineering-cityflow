@@ -1,0 +1,2 @@
+product_id,merchant_id,product_name,category,unit_price_uah,is_active,updated_at
+TEST-P1,TEST-M1,Test Item,food,100.00,True,2026-01-01T10:00:00Z
